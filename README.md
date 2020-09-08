@@ -5,7 +5,7 @@
 
 ## Roti
 
-![Keto Roti](images/roti.jpg)
+![Keto Roti](/images/roti.JPG)
 
 ### Ingredients
 * 1 cup coconut flour
